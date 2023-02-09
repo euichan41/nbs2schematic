@@ -20,7 +20,7 @@ If you don't use litematica mod and need .schematic file, you should use Lite2Ed
 
 노트블럭 스튜디오로 만든 nbs 파일을 .litematic 파일로 변환해 줄 수 있는 프로그램임.
 
-노트블럭 스튜디오에서 동시에 최대 36개의 노트블럭까지를 레드스톤 회로로 구현할 수 있고, 햇(모래)를 포함한 layer는 3개만 가능함. (밑으로 떨어지니까)
+노트블럭 스튜디오에서 동시에 최대 36개의 노트블럭까지를 연주하는 레드스톤 회로로 구현할 수 있고, 햇(모래)를 포함한 layer는 3개만 가능함. (밑으로 떨어지니까)
 
 파이썬을 쓸 줄 알면 nbs2schematic_reduced_chunkloadingimprovement.py를 구동하면 되고,
 
